@@ -1,0 +1,13 @@
+Zaliakalnis;Zalioji   ;6A;murinis;1988;189,84;18;
+Dainava    ;Draugystes;10;murinis;1979;263,26;19;
+Aleksotas  ;Lakunu pl.;28;murinis;1998;200,69;20;
+Freda      ;Varnënø   ; 2;medinis;1969;120,35;12;
+Eiguliai   ;Jonavos   ; 8;medinis;1981; 96,86; 6;
+Panemunë   ;Miglos    ;8A;medinis;1999;298,98;21;
+Vilijampolë;Varniø    ; 2;medinis;1998;189,69;16;
+Vilijampolë;Varniø    ; 2;murinis;1998; 89,69;13;
+Sargënai   ;Paneriø   ; 7;medinis;1954; 99,23; 8;
+Palemonas  ;Uþupio    ;21;murinis;2001;190,96;20;
+Dainava    ;Plento    ;3B;murinis;1989;203,26;24;
+Garliava   ;Slënio    ;1A;murinis;1979;213,26;23;
+Aleksotas  ;Lakunu pl.;24;murinis;1998; 98,69;20;

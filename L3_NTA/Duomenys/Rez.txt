@@ -1,0 +1,60 @@
+Duomenys
+--------------------------------------------------------------
+Nr Rajonas    Gatve Namo Nr Tipas   Metai  Plotas Kambariu sk.
+--------------------------------------------------------------
+1 Žaliakalnis Žalioji    6A murinis 1988   189,84 18 
+2 Dainava     Draugystės 10 murinis 1979   263,26 19 
+3 Aleksotas   Lakunu pl. 28 murinis 1998   200,69 20 
+4 Freda       Varnėnų     2 medinis 1969   120,35 12 
+5 Eiguliai    Jonavos     8 medinis 1981    96,86 6 
+6 Panemunė    Miglos     8A medinis 1999   298,98 21 
+7 Vilijampolė Varnių      2 medinis 1998   189,69 16 
+8 Vilijampolė Varnių      2 murinis 1998    89,69 13 
+9 Sargėnai    Panerių     7 medinis 1954    99,23 8 
+10 Palemonas   Užupio     21 murinis 2001   190,96 20 
+11 Dainava     Plento     3B murinis 1989   203,26 24 
+12 Garliava    Slėnio     1A murinis 1979   213,26 23 
+13 Aleksotas   Lakunu pl. 24 murinis 1998    98,69 20 
+--------------------------------------------------------------
+Du Didziausi plotai
+--------------------------------------------------------------
+Nr Rajonas    Gatve Namo Nr Tipas   Metai  Plotas Kambariu sk.
+--------------------------------------------------------------
+1 Panemunė    Miglos     8A medinis 1999   298,98 21 
+2 Dainava     Draugystės 10 murinis 1979   263,26 19 
+--------------------------------------------------------------
+Rajonai be pasikartojimu 
+
+---------------------------
+1 Žaliakalnis
+
+2 Dainava    
+
+3 Aleksotas  
+
+4 Freda      
+
+5 Eiguliai   
+
+6 Panemunė   
+
+7 Vilijampolė
+
+8 Sargėnai   
+
+9 Palemonas  
+
+10 Garliava   
+
+---------------------------
+Atrinkti namai
+--------------------------------------------------------------
+Nr Rajonas    Gatve Namo Nr Tipas   Metai  Plotas Kambariu sk.
+--------------------------------------------------------------
+1 Žaliakalnis Žalioji    6A murinis 1988   189,84 18 
+2 Dainava     Draugystės 10 murinis 1979   263,26 19 
+3 Aleksotas   Lakunu pl. 28 murinis 1998   200,69 20 
+4 Palemonas   Užupio     21 murinis 2001   190,96 20 
+5 Dainava     Plento     3B murinis 1989   203,26 24 
+6 Garliava    Slėnio     1A murinis 1979   213,26 23 
+--------------------------------------------------------------
